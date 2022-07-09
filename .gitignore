@@ -1,6 +1,7 @@
 node_modules/
 dist/
 dist/*.js.map
-
+dist/*.js
+dist/index.js
 
 .env
